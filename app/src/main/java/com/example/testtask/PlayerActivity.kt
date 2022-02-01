@@ -2,12 +2,8 @@ package com.example.testtask
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.example.testtask.adapter.VideoAdapter
 import com.example.testtask.databinding.ActivityPlayerBinding
-import com.example.testtask.model.Category
-import com.example.testtask.model.Video
 import com.google.android.exoplayer2.ExoPlayer
-import com.google.android.exoplayer2.MediaItem
 
 class PlayerActivity : AppCompatActivity() {
 
